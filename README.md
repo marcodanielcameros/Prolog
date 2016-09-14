@@ -1,0 +1,2 @@
+# Prolog
+Tarea árbol genealógico
